@@ -16,4 +16,4 @@ Vrinda store wants to create an annual sales report for 2022. So that, vrinda ca
 8. highest selling category?
 
 ## Dashboard
-- <a href="https://github.com/Gaurav-Tatuskar/Excel_vrinda-store-annual-sales-dashboard./blob/main/dashboard_image.png"View Dashboard</a>
+- <a href="https://github.com/Gaurav-Tatuskar/Excel_vrinda-store-annual-sales-dashboard./blob/main/dashboard_image.png">View Dashboard</a>
