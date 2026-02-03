@@ -17,3 +17,10 @@ Vrinda store wants to create an annual sales report for 2022. So that, vrinda ca
 
 ## Dashboard
 - <a href="https://github.com/Gaurav-Tatuskar/Excel_vrinda-store-annual-sales-dashboard./blob/main/dashboard_image.png">View Dashboard</a>
+
+## Project Process
+- Cleaned data by standardizing gender and quantity values.  
+- Processed data by creating age groups and extracting month from date.  
+- Analyzed data using pivot tables.  
+- Visualized insights through an interactive Excel dashboard.  
+- Generated insights to support data-driven decision making.  
