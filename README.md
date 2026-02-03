@@ -23,4 +23,8 @@ Vrinda store wants to create an annual sales report for 2022. So that, vrinda ca
 - Processed data by creating age groups and extracting month from date.  
 - Analyzed data using pivot tables.  
 - Visualized insights through an interactive Excel dashboard.  
-- Generated insights to support data-driven decision making.  
+- Generated insights to support data-driven decision making.
+
+## Dashboard
+<img width="1024" height="442" alt="dashboard_image" src="https://github.com/user-attachments/assets/b165ce95-c6ab-4c3f-991e-5c91a81b1402" />
+
